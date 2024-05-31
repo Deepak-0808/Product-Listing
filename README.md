@@ -1,4 +1,8 @@
-
+## I have deployed it on vercel. 
+   check it now!
+   
+   https://product-listing-noviu2v5t-deepak-kumars-projects-75392826.vercel.app/
+   
 ## Setup Instructions
 
 To set up the project on your local machine, follow these steps:
@@ -17,3 +21,5 @@ To set up the project on your local machine, follow these steps:
 4. Start the development server:
    ```sh
    npm start
+
+
